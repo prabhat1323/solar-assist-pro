@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
+    "@google-cloud/dialogflow": "^6.2.0",
     "antd": "^5.12.2",
     "font-awesome": "^4.7.0",
     "next": "14.0.3",
